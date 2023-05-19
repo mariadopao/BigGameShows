@@ -1,0 +1,94 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+ 
+html,body{
+    font-size: 100%;
+    font-weight: 400;
+    text-rendering:optimizeLegibility;
+ }
+ 
+header{
+    background-color:darkorchid;
+    display: flex;
+
+}
+
+
+main img{
+    border-radius: 10%;  
+    height: 20rem;
+    width: 20rem;
+}
+nav,a{
+    color:aqua;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 2rem;
+    display: flex;
+}
+nav > a:hover{
+    color:rgb(43, 8, 75);
+    font-size: 2rem;
+}
+figure> img{
+    width: 10rem;
+    height: 10rem;
+    align-items: center;
+}
+img {
+    width: 20rem;
+    height: 20rem;
+    
+}
+footer{
+    background-color:  ;
+    color: purple;
+    align-items: center;
+}
+container{
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    align-items: center;
+    justify-content: center;
+    color:aqua;
+    display: flex;
+}
+
+h2{
+   align-items: center;
+   justify-content: center;
+   color:darkorchid;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ol{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+section{
+    display: flex;
+    justify-content:;
+}
+img{
+    border-radius: 20rem;
+    width: 8rem;
+    height: 8rem;
+    margin: 0 2rem 0 0;
+    
+}
+body{
+    background-color:gainsboro;
+}
+
+.a{
+    width: 70rem;
+}
